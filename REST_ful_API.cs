@@ -10,7 +10,7 @@ using UnityEngine;
 
 public class REST_ful_API : MonoBehaviour
 {
-    private string requestURL = @"https://yourURL";
+    private string requestURL = "https://yourURL";
     private string headerUsername = "username";
     private string headerPassword = "password";
 
